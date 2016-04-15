@@ -1,6 +1,6 @@
 package com.nameless.ConsoleDownloader.files;
 
-import com.nameless.ConsoleDownloader.Utils.Utils;
+import com.nameless.ConsoleDownloader.Utils;
 
 import java.io.*;
 import java.util.ArrayList;

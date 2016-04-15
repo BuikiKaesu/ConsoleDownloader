@@ -1,4 +1,4 @@
-package com.nameless.ConsoleDownloader.Utils;
+package com.nameless.ConsoleDownloader;
 
 import java.io.File;
 

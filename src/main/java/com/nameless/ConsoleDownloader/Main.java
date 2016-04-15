@@ -1,6 +1,5 @@
 package com.nameless.ConsoleDownloader;
 
-import com.nameless.ConsoleDownloader.Utils.*;
 import com.nameless.ConsoleDownloader.arguments.AppArguments;
 import com.nameless.ConsoleDownloader.downloader.*;
 import com.nameless.ConsoleDownloader.files.DownloadsInfoFileParser;
